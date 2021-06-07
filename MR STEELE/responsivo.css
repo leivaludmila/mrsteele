@@ -1,0 +1,24 @@
+/* segunda tactica- multimedia flexible - para lograr que
+   las imagenes se adapten a su contenedor y evitar que se deformen. 
+*/
+img,
+video{
+  max-width: 100%;
+}
+
+/* tercera tactica- Media Queries -
+   aplica reglas CSS si se cumple una determinada condicion
+*/
+/* suponemos que los celulares van a tener un maximo de
+    960px */
+@media screen and (max-width:960px){
+    #galeriasoy{
+        max-width: 100%;
+   }
+ #galeriasoy div .avsoy{
+        display:flex;
+        justify-content: space-between;
+        font-display: swap;
+        font-size: 1px;
+    }
+}

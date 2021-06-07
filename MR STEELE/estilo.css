@@ -1,0 +1,273 @@
+h1{
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 0px;
+  font-family: 'Bebas Neue', cursive;
+  background-color: grey;
+  opacity:1,5;
+  text-align: center; 
+  font-size:4em;
+  word-spacing: 4px;
+
+}
+
+footer{
+  font-family: 'Bebas Neue', cursive;
+  
+}
+
+img,
+video{
+  max-width: 100%;
+}
+
+
+.av{
+  position: fixed;
+  top: 150px;
+  left: 0;
+  right: 0;
+  height: 82px;
+  font-family: 'Bebas Neue', cursive;
+  background-color: grey;
+  opacity:0.5;
+  text-align: center;
+  font-size:4em;
+  margin: 60px;
+ 
+}
+.avsoy{
+  position: absolute;
+  top: 280px;
+  left: 0;
+  right: 0;
+  height: 200px;
+  font-family: 'Bebas Neue', cursive;
+  background-color: grey;
+  opacity:0.8;
+  text-align: center;
+  font-size:2em;
+  margin: 150px;
+}
+
+.avhago{
+  position: absolute;
+  top: 300px;
+  left: 0;
+  right: 0;
+  height: 12opx;
+  font-family: 'Bebas Neue', cursive;
+  background-color: grey;
+  opacity:0.8;
+  text-align: center;
+  font-size:2em;
+  margin: 150px;
+}
+
+.avdrones{
+  position: absolute;
+  top: 380px;
+  left: 0;
+  right: 0;
+  height: 130px;
+  font-family: 'Bebas Neue', cursive;
+  background-color: grey;
+  opacity:0.8;
+  text-align: center;
+  font-size:3em;
+  margin: 120px;
+}
+.avredes{
+  position: fixed;
+  top: 150px;
+  left: 0;
+  right: 0;
+  height: 82px;
+  font-family: 'Bebas Neue', cursive;
+  background-color: grey;
+  opacity:0.5;
+  text-align: center;
+  font-size:4em;
+  margin: 60px;
+}
+
+.fondos{
+  background: url(fondo1.png);
+  display: flex;
+}
+.fondos{
+  background:url(fondo2.jpg);
+  display: flex;
+}
+
+.fondos{
+  background: url(fondo3.png);
+  display: flex;
+}
+
+.fondos{
+  background: url(fondo4.jpg);
+  display: flex;
+}
+
+.fondos{
+  background: url(fondo5.jpg);
+  display: flex;
+}
+
+
+body{
+  background: url(fondo1.png);
+  background: url(fondo2.png);
+  background: url(fondo3.png);
+  background: url(fondo4.png);
+  background: url(fondo5.png);
+  background-size:initial;
+}
+
+.soy{
+ max-width: 60%;
+ top: 0px;
+ margin: 20px;
+}
+
+.soy1{
+  width:40%;
+  margin: 10px;
+}
+
+.soy2{
+  width: 30%;
+  float: right;
+  margin: 10px;
+}
+
+.fotoh{
+  margin: 5px;
+}
+.fotoh1{
+  width: 40%;
+  float: right;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  margin-left:0px;
+  margin-right: 0px ;
+}
+
+
+.fotoh2{
+  width: 95%;
+  float: none;
+  margin:px;
+}
+
+.fdrones{
+  width: 45%;
+  float: left;
+  margin:20px 5px;
+}
+
+.fdrones1{
+  width: 21%;
+  float:none;
+  margin:10px;
+}
+
+.fdrones2{
+  width: 70%;
+  float: none;
+  margin: 5px 90px;
+}
+
+.fdrones3{
+  width: 65%;
+  margin:5px 60px;
+  float: none;
+  
+}
+
+.fdrones4{
+  width: 97%;
+  margin: 5px 10px;
+}
+
+.fdrones5{
+  margin: 20px;
+
+}
+.fdrones6{
+  width: 45%;
+  height: 7%;
+  float: none;
+  margin:45px 10px;
+}
+.fdrones7{
+  margin:0px 70px;
+  width: 30%;
+}
+.fdrones8{
+ margin: 0px 50px;
+ width: 30%;
+}
+.fdrones9{
+  width: 48%;
+  height: 450px;
+  margin: 5px;
+}
+.fdrones10{
+  width: 48%;
+  height: 350px;
+  float: right;
+  margin: 40px 5px;
+}
+.fdrones11{
+  margin:10px 5px;
+  width: 28%;
+  float: right;
+}
+
+
+
+#galeriasoy{
+  display: flex;
+}
+
+#galeria{
+  display:flex;
+}
+nav{
+  width: 1000%;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: justify;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+
+  }
+  
+  /* cuando pase el mouse por el link se ve de este color #111 (black) */
+  li a:hover {
+    background-color: #111;
+  }
+  
+ 
+ 
+ 
